@@ -15,7 +15,7 @@ An in-depth paragraph about your project and overview of use.
 
 ### Installing
 
-Install Pygame by following instructions from this [link](https://www.pygame.org/wiki/GettingStarted)
+Install Pygame by following instructions from this [link](https://www.pygame.org/wiki/GettingStarted).
 
 ### Executing program
 
